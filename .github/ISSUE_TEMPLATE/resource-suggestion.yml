@@ -1,0 +1,49 @@
+name: Resource Suggestion
+description: Suggest a new tool or resource for the list
+title: "[Suggestion] "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource Name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - "Red Teaming & Offensive"
+        - "Guardrails & Defense"
+        - "Agent & MCP Security"
+        - "Model Security"
+        - "RAG Security"
+        - "LLM-Powered Security Tools"
+        - "Frameworks & Standards"
+        - "Learning & CTF"
+    validations:
+      required: true
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: Pricing
+      options:
+        - "🆓 Free / Open Source"
+        - "💎 Freemium"
+        - "💰 Paid"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: "Max 120 characters"
+    validations:
+      required: true
