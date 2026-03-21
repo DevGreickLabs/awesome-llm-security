@@ -2,7 +2,6 @@
 
 <img src="public/banner.svg" alt="awesome-llm-security" width="700">
 
-# awesome-llm-security
 
 A curated list of tools, frameworks, and resources for securing LLMs, AI agents, and GenAI applications.
 
