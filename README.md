@@ -17,9 +17,8 @@ Curated by [DevGreick](https://github.com/DevGreick)
 
 ## Why This List?
 
-Existing AI security lists are either paper-heavy with no practical tooling, or too broad covering all of ML. This list is **tools-first, LLM-focused, and practitioner-oriented**. Every entry is something you can install and run today.
+LLM security is moving fast. New tools, attack vectors, and frameworks appear every week. This list is **practitioner-first** organized by what you're trying to do, with pricing, maturity badges, opinionated stacks, and getting started paths, every entry is something you can install and run today.
 
----
 
 ## Contents
 
