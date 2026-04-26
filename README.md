@@ -123,7 +123,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
-| [Guardrails AI](https://www.guardrailsai.com/) | Validation framework for LLM outputs with custom validators | 🟢 | 💎 | [GitHub](https://github.com/guardrails-ai/guardrails) |
+| [Guardrails AI](https://www.guardrailsai.com/) | Validation framework for LLM outputs with custom validators | 🟢⭐ | 💎 | [GitHub](https://github.com/guardrails-ai/guardrails) |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NVIDIA's programmable rails for LLM conversational systems | 🟢 | 🆓 | [GitHub](https://github.com/NVIDIA/NeMo-Guardrails) |
 
 ### PII & Data Leakage Prevention
@@ -141,7 +141,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
-| [Aegis](https://github.com/sahil-sagwekar2652/aegis) | Open source EDR for AI agents: process, file, network monitoring | 🟡 | 🆓 | [GitHub](https://github.com/sahil-sagwekar2652/aegis) |
+| [Aegis](https://github.com/sahil-sagwekar2652/aegis) | Open source EDR for AI agents: process, file, network monitoring | 🟡⭐ | 🆓 | [GitHub](https://github.com/sahil-sagwekar2652/aegis) |
 | [Agentic Radar](https://github.com/splx-ai/agentic-radar) | CLI security scanner for agentic AI workflows | 🟡 | 🆓 | [GitHub](https://github.com/splx-ai/agentic-radar) |
 
 ### MCP Security
@@ -184,7 +184,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
-| [GPTZero](https://gptzero.me/) | AI content detection platform | 🟢 | 💎 | [Website](https://gptzero.me/) |
+| [GPTZero](https://gptzero.me/) | AI content detection platform | 🟢⭐ | 💎 | [Website](https://gptzero.me/) |
 | [MarkMyWords](https://github.com/julien-c/MarkMyWords) | Open source toolkit for LLM watermarking | 🟡 | 🆓 | [GitHub](https://github.com/julien-c/MarkMyWords) |
 
 ---
@@ -193,7 +193,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
-| [LangKit](https://github.com/whylabs/langkit) | Open source toolkit for LLM/RAG observability and safety monitoring | 🟢 | 💎 | [GitHub](https://github.com/whylabs/langkit) |
+| [LangKit](https://github.com/whylabs/langkit) | Open source toolkit for LLM/RAG observability and safety monitoring | 🟢⭐ | 💎 | [GitHub](https://github.com/whylabs/langkit) |
 | [Plexiglass](https://github.com/safellm-2024/plexiglass) | Security toolbox for testing and safeguarding LLMs and RAG | 🟡 | 🆓 | [GitHub](https://github.com/safellm-2024/plexiglass) |
 
 ---
@@ -218,7 +218,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
-| [PentestGPT](https://github.com/GreyDGL/PentestGPT) | GPT-powered automated penetration testing tool | 🟡 | 💎 | [GitHub](https://github.com/GreyDGL/PentestGPT) |
+| [PentestGPT](https://github.com/GreyDGL/PentestGPT) | GPT-powered automated penetration testing tool | 🟡⭐ | 💎 | [GitHub](https://github.com/GreyDGL/PentestGPT) |
 
 ---
 
