@@ -49,6 +49,7 @@ LLM security is moving fastm new tools, attack vectors, and frameworks appear ev
 - [Learning & CTF](#learning--ctf)
 - [Recommended Stacks](#recommended-stacks)
 - [Contributing](#contributing)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with LLM security guardrails: Kyverno policy enforcement, RBAC visualization, supply chain security, and AI/LLM workload access controls. CNCF Sandbox project.
 
 ---
 
