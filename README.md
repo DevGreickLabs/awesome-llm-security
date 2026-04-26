@@ -17,7 +17,7 @@ Curated by [DevGreick](https://github.com/DevGreick)
 
 ## Why This List?
 
-LLM security is moving fastm new tools, attack vectors, and frameworks appear every week. This list is **practitioner-first** organized by what you're trying to do, with pricing, maturity badges, opinionated stacks, and getting started paths, every entry is something you can install and run today.
+LLM security is moving fast — new tools, attack vectors, and frameworks appear every week. This list is **practitioner-first**, organized by what you're trying to do, with pricing, maturity badges, opinionated stacks, and getting-started paths. Every entry is something you can install and run today.
 
 
 ## Contents
@@ -49,7 +49,6 @@ LLM security is moving fastm new tools, attack vectors, and frameworks appear ev
 - [Learning & CTF](#learning--ctf)
 - [Recommended Stacks](#recommended-stacks)
 - [Contributing](#contributing)
-- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with LLM security guardrails: Kyverno policy enforcement, RBAC visualization, supply chain security, and AI/LLM workload access controls. CNCF Sandbox project.
 
 ---
 
@@ -158,6 +157,7 @@ LLM security is moving fastm new tools, attack vectors, and frameworks appear ev
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
 | [E2B](https://e2b.dev/) | Sandboxed cloud environments for AI agents and code execution | 🟢 | 💎 | [GitHub](https://github.com/e2b-dev/e2b) |
+| [KubeStellar Console](https://github.com/kubestellar/console) | Multi-cluster Kubernetes dashboard with Kyverno policy enforcement, RBAC visualization, supply chain security, and AI/LLM workload access controls. CNCF Sandbox project | 🟡 | 🆓 | [GitHub](https://github.com/kubestellar/console) |
 | [ShellWard](https://github.com/nicholasgcoles/shellward) | AI Agent Security Middleware with 8-layer defense, zero deps | 🟡 | 🆓 | [GitHub](https://github.com/nicholasgcoles/shellward) |
 
 ---
