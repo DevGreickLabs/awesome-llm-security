@@ -219,6 +219,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
+| [Darkmoon](https://github.com/ASCIT31/Dark-Moon) | Open-source autonomous AI pentest platform and MCP host; per-tech offensive sub-agents across web, AD and Kubernetes, real exploit execution, evidence trail, local 14B LLM | 🟡 | 🆓 | [GitHub](https://github.com/ASCIT31/Dark-Moon) |
 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | GPT-powered automated penetration testing tool | 🟡⭐ | 💎 | [GitHub](https://github.com/GreyDGL/PentestGPT) |
 
 ---
