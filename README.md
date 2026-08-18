@@ -72,7 +72,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
-| [Augustus](https://github.com/a16z-infra/augustus) | LLM security testing with 190+ probes and 28 providers in Go | 🟡 | 🆓 | [GitHub](https://github.com/a16z-infra/augustus) |
+| [Augustus](https://github.com/praetorian-inc/augustus) | LLM security testing with 190+ probes and 28 providers in Go | 🟡 | 🆓 | [GitHub](https://github.com/praetorian-inc/augustus) |
 | [Garak](https://github.com/NVIDIA/garak) | NVIDIA's LLM vulnerability scanner with 50+ probe families | 🟢 | 🆓 | [GitHub](https://github.com/NVIDIA/garak) |
 | [Giskard](https://github.com/Giskard-AI/giskard) | Testing and evaluation framework for ML and LLM models | 🟢 | 💎 | [GitHub](https://github.com/Giskard-AI/giskard) |
 | [Promptfoo](https://www.promptfoo.dev/) | Red teaming, pentesting, and vuln scanning for LLMs. Now part of OpenAI | 🟢 | 💎 | [GitHub](https://github.com/promptfoo/promptfoo) |
@@ -103,7 +103,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
 | [AgentDojo](https://github.com/ethz-spylab/agentdojo) | Dynamic environment to evaluate attacks/defenses for LLM agents | 🟢 | 🆓 | [GitHub](https://github.com/ethz-spylab/agentdojo) |
-| [CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CyberSecEval) | Meta's benchmark for LLM cybersecurity risk assessment | 🟢 | 🆓 | [GitHub](https://github.com/meta-llama/PurpleLlama) |
+| [CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks) | Meta's benchmark for LLM cybersecurity risk assessment | 🟢 | 🆓 | [GitHub](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks) |
 | [HarmBench](https://github.com/centerforaisafety/HarmBench) | Standardized evaluation for automated red teaming | 🟢 | 🆓 | [GitHub](https://github.com/centerforaisafety/HarmBench) |
 
 ---
@@ -114,7 +114,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
-| [APort Agent Guardrails](https://aport.io) | Pre-action authorization guardrails for AI agents and MCP/tool-use workflows. | Runtime authorization guardrails | Runtime authorization guardrails | https://aport.io |
+| [APort Agent Guardrails](https://aport.io) | Pre-action authorization guardrails for AI agents and MCP/tool-use workflows | 🟡 | 💎 | [GitHub](https://github.com/aporthq/aport-agent-guardrails) |
 | [LLM Guard](https://protectai.com/llm-guard) | 35 scanners for prompt injection, PII, toxicity, and secrets | 🟢 | 🆓 | [GitHub](https://github.com/protectai/llm-guard) |
 | [Rebuff](https://github.com/protectai/rebuff) | Self-hardening prompt injection detector with canary tokens | 🟡 | 🆓 | [GitHub](https://github.com/protectai/rebuff) |
 | [TrustGate](https://github.com/trustgate-ai/trustgate) | Generative Application Firewall (GAF) for GenAI apps | 🟡 | 🆓 | [GitHub](https://github.com/trustgate-ai/trustgate) |
@@ -131,8 +131,9 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
+| [Gitleaks](https://github.com/gitleaks/gitleaks) | Secret scanner to keep API keys out of prompts, code, and git history | 🟢 | 🆓 | [GitHub](https://github.com/gitleaks/gitleaks) |
 | [Presidio](https://github.com/microsoft/presidio) | Microsoft's context-aware PII anonymization engine | 🟢 | 🆓 | [GitHub](https://github.com/microsoft/presidio) |
-| [Safe Zone](https://github.com/nicholasgcoles/safe-zone) | Open source PII detection and guardrails engine for LLMs | 🟡 | 🆓 | [GitHub](https://github.com/nicholasgcoles/safe-zone) |
+| [Safe Zone](https://github.com/thyrisAI/safe-zone) | Open source PII detection and guardrails engine for LLMs | 🟡 | 🆓 | [GitHub](https://github.com/thyrisAI/safe-zone) |
 
 ---
 
@@ -150,8 +151,8 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
 | [MCP Guardian](https://github.com/eqtylab/mcp-guardian) | Access control and activity monitoring for MCP servers | 🟡 | 🆓 | [GitHub](https://github.com/eqtylab/mcp-guardian) |
-| [MCP Security Checklist](https://github.com/nicholasgcoles/MCP-Security-Checklist) | SlowMist's comprehensive checklist for MCP ecosystem | 🟢 | 🆓 | [GitHub](https://github.com/nicholasgcoles/MCP-Security-Checklist) |
-| [Secure MCP Gateway](https://github.com/nicholasgcoles/secure-mcp-gateway) | Security wrapper with auth and guardrail enforcement for MCP | 🟡 | 🆓 | [GitHub](https://github.com/nicholasgcoles/secure-mcp-gateway) |
+| [MCP Security Checklist](https://github.com/slowmist/MCP-Security-Checklist) | SlowMist's comprehensive checklist for MCP ecosystem | 🟢 | 🆓 | [GitHub](https://github.com/slowmist/MCP-Security-Checklist) |
+| [Secure MCP Gateway](https://github.com/enkryptai/secure-mcp-gateway) | Security wrapper with auth and guardrail enforcement for MCP | 🟡 | 🆓 | [GitHub](https://github.com/enkryptai/secure-mcp-gateway) |
 
 ### Sandboxing & Isolation
 
@@ -159,7 +160,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 |------|-------------|----------|---------|------|
 | [E2B](https://e2b.dev/) | Sandboxed cloud environments for AI agents and code execution | 🟢 | 💎 | [GitHub](https://github.com/e2b-dev/e2b) |
 | [KubeStellar Console](https://github.com/kubestellar/console) | Multi-cluster Kubernetes dashboard with Kyverno policy enforcement, RBAC visualization, supply chain security, and AI/LLM workload access controls. CNCF Sandbox project | 🟡 | 🆓 | [GitHub](https://github.com/kubestellar/console) |
-| [ShellWard](https://github.com/nicholasgcoles/shellward) | AI Agent Security Middleware with 8-layer defense, zero deps | 🟡 | 🆓 | [GitHub](https://github.com/nicholasgcoles/shellward) |
+| [ShellWard](https://github.com/jnMetaCode/shellward) | AI Agent Security Middleware with 8-layer defense, zero deps | 🟡 | 🆓 | [GitHub](https://github.com/jnMetaCode/shellward) |
 
 ---
 
@@ -170,7 +171,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
 | [ModelScan](https://github.com/protectai/modelscan) | Scan serialized ML model files for malicious code and backdoors | 🟢 | 🆓 | [GitHub](https://github.com/protectai/modelscan) |
-| [ai-bom](https://github.com/nicholasgcoles/ai-bom) | AI Bill of Materials: discover agents, models, and APIs in your infra | 🟡 | 🆓 | [GitHub](https://github.com/nicholasgcoles/ai-bom) |
+| [ai-bom](https://github.com/Trusera/ai-bom) | AI Bill of Materials: discover agents, models, and APIs in your infra | 🟡 | 🆓 | [GitHub](https://github.com/Trusera/ai-bom) |
 
 ### Adversarial Robustness
 
@@ -186,7 +187,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
 | [GPTZero](https://gptzero.me/) | AI content detection platform | 🟢⭐ | 💎 | [Website](https://gptzero.me/) |
-| [MarkMyWords](https://github.com/julien-c/MarkMyWords) | Open source toolkit for LLM watermarking | 🟡 | 🆓 | [GitHub](https://github.com/julien-c/MarkMyWords) |
+| [MarkMyWords](https://github.com/wagner-group/MarkMyWords) | Open source toolkit for LLM watermarking | 🟡 | 🆓 | [GitHub](https://github.com/wagner-group/MarkMyWords) |
 
 ---
 
