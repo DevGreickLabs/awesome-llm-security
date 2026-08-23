@@ -77,6 +77,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 | [Giskard](https://github.com/Giskard-AI/giskard) | Testing and evaluation framework for ML and LLM models | 🟢 | 💎 | [GitHub](https://github.com/Giskard-AI/giskard) |
 | [Promptfoo](https://www.promptfoo.dev/) | Red teaming, pentesting, and vuln scanning for LLMs. Now part of OpenAI | 🟢 | 💎 | [GitHub](https://github.com/promptfoo/promptfoo) |
 | [PyRIT](https://github.com/Azure/PyRIT) | Microsoft's Python Risk Identification Tool for generative AI | 🟢 | 🆓 | [GitHub](https://github.com/Azure/PyRIT) |
+| [Sentinel Scan](https://github.com/Ventrova/sentinel-scan-cli) | CLI for authorized LLM red-team audits: prompt injection, jailbreak, and data-leak probes with a scored report | 🟡 | 🆓 | [GitHub](https://github.com/Ventrova/sentinel-scan-cli) |
 
 ### Jailbreak Frameworks
 
