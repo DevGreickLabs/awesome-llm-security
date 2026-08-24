@@ -97,6 +97,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 | [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) | Benchmark for prompt injection attacks and defenses | 🟢 | 🆓 | [GitHub](https://github.com/liu00222/Open-Prompt-Injection) |
 | [Promptmap](https://github.com/utkusen/promptmap) | Prompt injection scanner for custom LLM apps | 🟡 | 🆓 | [GitHub](https://github.com/utkusen/promptmap) |
 | [ps-fuzz](https://github.com/prompt-security/ps-fuzz) | System prompt hardening and testing tool | 🟡 | 🆓 | [GitHub](https://github.com/prompt-security/ps-fuzz) |
+| [Sentinel Scan CLI](https://github.com/Ventrova/sentinel-scan-cli) | Runs a 15-attack prompt-injection suite against your own LLM endpoint, offline, no API key needed | 🟡 | 🆓 | [GitHub](https://github.com/Ventrova/sentinel-scan-cli) |
 
 ### Benchmarks & Datasets
 
