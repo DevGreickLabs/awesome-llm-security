@@ -145,6 +145,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 |------|-------------|----------|---------|------|
 | [Aegis](https://github.com/sahil-sagwekar2652/aegis) | Open source EDR for AI agents: process, file, network monitoring | 🟡⭐ | 🆓 | [GitHub](https://github.com/sahil-sagwekar2652/aegis) |
 | [Agentic Radar](https://github.com/splx-ai/agentic-radar) | CLI security scanner for agentic AI workflows | 🟡 | 🆓 | [GitHub](https://github.com/splx-ai/agentic-radar) |
+| [http-detection-agent](https://github.com/ai-blueteam/http-detection-agent) | Rust CLI and local MCP server for capability-aware HTTP attack detection | 🔴 | 🆓 | [GitHub](https://github.com/ai-blueteam/http-detection-agent) |
 
 ### MCP Security
 
