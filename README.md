@@ -132,6 +132,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
 | [Gitleaks](https://github.com/gitleaks/gitleaks) | Secret scanner to keep API keys out of prompts, code, and git history | 🟢 | 🆓 | [GitHub](https://github.com/gitleaks/gitleaks) |
+| [PasteGuard](https://pasteguard-exp2.netlify.app) | Client-side browser scanner for API keys, tokens, and PII before pasting into AI chats | 🟡 | 🆓 | [GitHub](https://github.com/ExtendedUser/pasteguard) |
 | [Presidio](https://github.com/microsoft/presidio) | Microsoft's context-aware PII anonymization engine | 🟢 | 🆓 | [GitHub](https://github.com/microsoft/presidio) |
 | [Safe Zone](https://github.com/thyrisAI/safe-zone) | Open source PII detection and guardrails engine for LLMs | 🟡 | 🆓 | [GitHub](https://github.com/thyrisAI/safe-zone) |
 
